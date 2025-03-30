@@ -35,8 +35,8 @@ A Next.js application that replicates the Trademarkia search functionality, allo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/trademarkia-search.git
-cd trademarkia-search
+git clone https://github.com/nihalikakumari/Trademark-Search-Application.git
+cd Trademark-Search-Application
 ```
 
 2. Install dependencies:
