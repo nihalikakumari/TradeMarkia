@@ -2,6 +2,10 @@
 
 A Next.js application that replicates the Trademarkia search functionality, allowing users to search and filter trademark records across the United States.
 
+🔗 **[Live Demo](https://trademark-search-application-2ibikd7bq.vercel.app/)**
+
+📂 **[GitHub Repository](https://github.com/nihalikakumari/Trademark-Search-Application)**
+
 ## Features
 
 - 🔍 Advanced trademark search with real-time results
@@ -147,3 +151,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [shadcn/ui](https://ui.shadcn.com/) for the beautiful UI components
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
 - [Next.js](https://nextjs.org/) for the amazing React framework
+
